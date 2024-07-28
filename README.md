@@ -1,9 +1,9 @@
-## Name: Jagan Saravana
+### Name: Jagan Saravana
 
-## Company: CODTECH IT SOLUTIONS
+### Company: CODTECH IT SOLUTIONS
 
-## ID : CT8DA1751
+### ID : CT8DA1751
 
-## Domain: DATA ANALYTICS
+### Domain: DATA ANALYTICS
 
-## Duration: July to September 2024
+### Duration: July to September 2024
