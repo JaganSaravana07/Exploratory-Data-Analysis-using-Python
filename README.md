@@ -52,10 +52,13 @@ To run this project, you will need the following Python libraries:
       
 2. **Player Performance Analysis**
 - Batsman Analysis
+  
    - Top Scorer: "Shubman Gill" was the highest run-scorer, leading by nearly 100 runs over "Faf du Plessis."
    - Boundary Leaders: "Shubman Gill" and "Yashasvi Jaiswal" led in boundary count.
    - Dot Ball Analysis: "David Warner" faced over 150 dot balls, more than any other player.
+     
 - Bowler Analysis
+  
    - Top Bowler: "Mohit Sharma" led with 31 wickets, followed by "Mohammed Shami" and "Rashid Khan" with 28 each.
    - Economy Rates: "Matthew Short," "Tilak Varma," and "Praveen Dubey" had the lowest economy rates.
      
