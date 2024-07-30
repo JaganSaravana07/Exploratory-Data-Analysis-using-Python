@@ -42,7 +42,7 @@ To run this project, you will need the following Python libraries:
 - matplotlib
 - seaborn
 
-### Summary
+## Summary
 
 1. **Overall Match Analysis**
     - Notable Wins: "Royal Challengers Bangalore" won by the highest number of runs, while "Lucknow Super Giants" had the lowest winning margin in terms of runs. "Gujarat Titans" had the highest wins by wickets.
