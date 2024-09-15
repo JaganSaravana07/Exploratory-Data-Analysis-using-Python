@@ -1,13 +1,3 @@
-#### Name: Jagan Saravana
-
-#### Company: CODTECH IT SOLUTIONS
-
-#### ID : CT8DA1751
-
-#### Domain: DATA ANALYTICS
-
-#### Duration: July to September 2024
-
 # Exploratory Data Analysis (EDA) Project: India Premier League 2023 Analysis
 
 ## Description
